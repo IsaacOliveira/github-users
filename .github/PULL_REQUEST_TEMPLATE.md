@@ -1,5 +1,3 @@
-<!-- Please refer to our contributing documentation for any questions on submitting a pull request, or let us know here if you need any help: https://ionicframework.com/docs/building/contributing -->
-
 ## Pull request checklist
 
 Please check if your PR fulfills the following requirements:
@@ -10,8 +8,6 @@ Please check if your PR fulfills the following requirements:
 
 
 ## Pull request type
-
-<!-- Please do not submit updates to dependencies unless it fixes an issue. --> 
 
 <!-- Please try to limit your pull request to one type, submit multiple pull requests if needed. --> 
 
